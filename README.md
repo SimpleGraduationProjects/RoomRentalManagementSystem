@@ -2,7 +2,7 @@
 [3000套带论文全目录地址:https://www.blog996.com/md/2024-03-16-1710579554528.html](https://www.blog996.com/md/2024-03-16-1710579554528.html)
 # 60.RoomRentalManagementSystem
 
-<p>群: 123300273(大佬群 2TB学习资料,讲解)(入群获取sql文件)</p>
+<p>群: 123300273(入群获取sql文件)</p>
 <p>QQ: 1095737364(加好友获取sql文件)</p>
 
 <p><h1 align="center">60.房屋出租管理系统</h1></p>
